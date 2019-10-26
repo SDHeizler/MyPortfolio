@@ -2620,6 +2620,10 @@ input, select, textarea {
 				font-weight: bold;
 				text-align: center;
 				line-height:40px;
+				text-decoration: none;
+			}
+			.button1:hover, .button2:hover{
+				transform: scale(1.2);
 			}
 			.button2{
 				background:#797a79;
@@ -2632,6 +2636,7 @@ input, select, textarea {
 				font-weight: bold;
 				text-align: center;
 				line-height:40px;
+				text-decoration: none;
 			}
 			body, input, textarea, select {
 				font-size: 12pt;
@@ -2662,6 +2667,10 @@ input, select, textarea {
 				font-weight: bold;
 				text-align: center;
 				line-height:40px;
+				text-decoration: none;
+			}
+			.button1:hover, .button2:hover{
+				transform: scale(1.2);
 			}
 			.button2{
 				background:#797a79;
@@ -2674,7 +2683,9 @@ input, select, textarea {
 				font-weight: bold;
 				text-align: center;
 				line-height:40px;
+				text-decoration: none;
 			}
+			
 			body, input, textarea, select {
 				font-size: 11pt;
 			}
@@ -2768,6 +2779,10 @@ input, select, textarea {
 				font-weight: bold;
 				text-align: center;
 				line-height:40px;
+				text-decoration: none;
+			}
+			.button1:hover, .button2:hover{
+				transform: scale(1.2);
 			}
 			.button2{
 				background:#797a79;
@@ -2780,6 +2795,7 @@ input, select, textarea {
 				font-weight: bold;
 				text-align: center;
 				line-height:40px;
+				text-decoration: none;
 			}
 
 			html, body {
@@ -3052,6 +3068,10 @@ input, select, textarea {
 				font-weight: bold;
 				text-align: center;
 				line-height:40px;
+				text-decoration: none;
+			}
+			.button1:hover, .button2:hover{
+				transform: scale(1.2);
 			}
 			.button2{
 				background:#797a79;
@@ -3064,6 +3084,7 @@ input, select, textarea {
 				font-weight: bold;
 				text-align: center;
 				line-height:40px;
+				text-decoration: none;
 			}
 			body, input, textarea, select {
 				font-size: 11pt;
@@ -3218,7 +3239,7 @@ input, select, textarea {
 				justify-content: space-evenly;
 				height:45px;
 			}
-			.button1 {
+			.button1{
 				background:#8de981;
 				height:100%;
 				width:6em;
@@ -3231,7 +3252,10 @@ input, select, textarea {
 				line-height:40px;
 				text-decoration: none;
 			}
-			.button2 {
+			.button1:hover, .button2:hover{
+				transform: scale(1.2);
+			}
+			.button2{
 				background:#797a79;
 				height:100%;
 				width:6em;
